@@ -1,12 +1,16 @@
 .icon {
-    color:red;
+    color:rgba(32, 5, 129, 0.158);
     font-size: 40px;
 }
 
 #title {
-    color: yellow;
+    color: rgb(0,0,0);
 }
 
 div p {
-    color:gray;
+    color:#fB5483;
+}
+
+body {
+    background: rgba(255,0,0,0.1);
 }
